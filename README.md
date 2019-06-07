@@ -8,14 +8,16 @@
     <img src="https://img.shields.io/badge/vue-2.6.10-brightgreen.svg" alt="vue">
   </a>
   <a href="https://github.com/twbs/bootstrap">
-    <img src="https://camo.githubusercontent.com/a5f1061fb7cedc496c697e46448c39a1e6540184/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f342e332f6173736574732f6272616e642f626f6f7473747261702d736f6c69642e737667" alt="bootstrap">
+    <img src="https://img.shields.io/badge/Bootstrap-4.3-brightgreen.svg" alt="bootstrap">
   </a>
   <a href="https://github.com/xcitic/hubination/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
 </p>
 
+<p align="center">
 [![HitCount](http://hits.dwyl.io/xcitic/hubination.svg)](http://hits.dwyl.io/xcitic/hubination)
+</p>
 
 ## Introduction
 This is showcases pagination in VueJS with data from the github api.

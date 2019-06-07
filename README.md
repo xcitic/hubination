@@ -14,10 +14,8 @@
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
 </p>
-
-<div align="center">
 [![HitCount](http://hits.dwyl.io/xcitic/hubination.svg)](http://hits.dwyl.io/xcitic/hubination)
-</div>
+
 
 ## Introduction
 This is showcases pagination in VueJS with data from the github api.

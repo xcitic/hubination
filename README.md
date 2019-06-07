@@ -15,12 +15,14 @@
   </a>
 </p>
 
-<p align="center">
+<div align="center">
 [![HitCount](http://hits.dwyl.io/xcitic/hubination.svg)](http://hits.dwyl.io/xcitic/hubination)
-</p>
+</div>
 
 ## Introduction
 This is showcases pagination in VueJS with data from the github api.
+The tutorial for this project is published on:
+
 
 ## Demo
 Visit www.hubination.samilazreg.com to see the demo of the site.
